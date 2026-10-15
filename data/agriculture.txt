@@ -1,0 +1,83 @@
+PADDY
+
+Paddy requires adequate water, nutrients and proper weed management.
+
+Nitrogen deficiency can cause older leaves to become yellow. Farmers should
+use fertilizers according to soil-test recommendations and the recommended
+dosage for their particular crop and region.
+
+Paddy pests include stem borer and brown planthopper. Farmers should monitor
+their fields regularly and follow locally recommended integrated pest
+management practices.
+
+WHEAT
+
+Wheat requires well-drained soil and appropriate irrigation.
+
+Yellowing leaves can have multiple causes, including nutrient deficiencies,
+water-related stress and disease. The exact cause should be identified before
+applying pesticides or fertilizers.
+
+COTTON
+
+Cotton can be affected by bollworms, aphids and other pests.
+
+Farmers should regularly inspect plants and use integrated pest management
+practices. Chemical pesticides should be used only according to approved
+recommendations and label instructions.
+
+TOMATO
+
+Tomato plants require adequate sunlight, irrigation and nutrients.
+
+Common problems include leaf diseases, fungal diseases and insect pests.
+Farmers should identify the problem before selecting a treatment.
+
+DISEASE: Tomato Early Blight
+
+CROP: Tomato
+
+CAUSE:
+Early blight is a fungal disease commonly associated with Alternaria species, including Alternaria linariae and Alternaria solani.
+
+SYMPTOMS:
+- Dark brown leaf spots with concentric rings.
+- Yellowing around affected leaf tissue.
+- Older, lower leaves are often affected first.
+- Severe infections can cause leaves to dry and fall.
+- Dark lesions may occur on stems and fruit.
+
+PREVENTION:
+- Water at the soil level rather than wetting foliage.
+- Maintain adequate spacing and airflow between plants.
+- Remove infected plant debris and manage affected leaves appropriately.
+- Rotate tomatoes with unrelated crops.
+- Inspect plants regularly for early symptoms.
+
+MANAGEMENT:
+Confirm the disease before applying treatment. Use only locally approved products and follow their label instructions. Seek advice from a local agricultural extension officer when the diagnosis is uncertain.
+
+DISEASE: Bell Pepper Bacterial Spot
+
+CROP: Bell Pepper / Pepper
+
+CAUSE:
+Bacterial spot is associated with Xanthomonas bacteria. It can spread through infected seeds or transplants and splashing water, particularly in warm, wet conditions.
+
+SYMPTOMS:
+- Small, water-soaked leaf spots that may become dark brown or black.
+- Yellow halos may develop around leaf lesions.
+- Severe infections can cause leaf yellowing and premature leaf drop.
+- Pepper fruits may develop raised, scabby lesions.
+- Symptoms can resemble other bacterial and fungal leaf spot diseases.
+
+PREVENTION:
+- Use certified disease-free seeds and healthy transplants.
+- Avoid overhead irrigation where practical.
+- Avoid handling plants while foliage is wet.
+- Clean tools and manage infected crop debris appropriately.
+- Maintain suitable plant spacing and airflow.
+- Rotate with non-host crops and follow local agricultural guidance.
+
+MANAGEMENT:
+Confirm the disease before applying treatments. Management depends on disease severity, local conditions, and bacterial resistance. Use only products registered for the crop and disease in your region, following label directions. Consult an agricultural extension officer for locally appropriate recommendations.
